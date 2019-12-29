@@ -40,6 +40,7 @@ I use [Git](https://git-scm.com/) for versioning.
 - **Authentication** and **Authorization** with Firebase
 - **JWT** with Firebase
 - **Store data** into **Local Storage**
+- **Redirect** unauthenticated users to the Login page
 
 ## Authors
 
